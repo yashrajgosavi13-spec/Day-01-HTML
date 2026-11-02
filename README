@@ -1,0 +1,59 @@
+# Apex - Official Website
+
+## Project Objective
+
+The objective of this project is to create a professional startup website using semantic HTML elements.
+
+This project demonstrates the use of HTML structure, navigation, forms, tables, multimedia, and embedded content.
+
+## Features Implemented
+
+- Semantic HTML structure
+- Header and Navigation Bar
+- Hero Section
+- About and Features Section
+- Services Section
+- Team Section
+- Contact Form with validation attributes
+- HTML Table
+- Video Embedding
+- Google Maps Integration
+- Footer Section
+- Ordered and Unordered Lists
+## Folder Structure
+
+Day-01-HTML/
+│
+├── assets/
+│   ├── images/
+│   │   └── larkimage.jpg
+│   │
+│   ├── icons/
+│   │
+│   └── vedios/
+│       └── Larkvedio.mp4
+│
+├── index.html
+│
+└── README.md
+
+## How to Run
+
+1. Download or clone this project.
+2. Open the Day-01-HTML folder.
+3. Open the index.html file in any web browser.
+4. The Apex website will be displayed.
+
+## Screenshots
+
+### Homepage
+![Homepage](assets/images/home.png)
+
+### Services and Features
+![Services](assets/images/featuresandmore.png)
+
+### Contact Section
+![Contact](assets/images/contact.png)
+
+### Multimedia Section
+![Multimedia](assets/images/media.png)
